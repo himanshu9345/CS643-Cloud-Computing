@@ -8,7 +8,7 @@ dedicated to the US states.
 Computes how many times the words “education”, “politics”, “sports”, and “agriculture” appear in
 each file. Then, the program outputs the number of states for which each of these words is dominant. </br>
 
-**Expected Output**
+**My Output**
 > education	30 </br>
 > politics	11 </br>
 > sports	9 </br>
@@ -16,7 +16,7 @@ each file. Then, the program outputs the number of states for which each of thes
 Identifies all states that have the same ranking of these four words. For example, NY, NJ, PA may
 have the ranking 1. Politics; 2. Sports. 3. Agriculture; 4. Education
 
-**Expected Output**
+**My Output**
 > 1.education;2.agriculture;3.politics;4.sports;	Mississippi;Iowa; </br>
 > 1.education;2.agriculture;3.sports;4.politics;	Pennsylvania;</br>
 > 1.education;2.politics;3.agriculture;4.sports;	Tennessee;</br>
